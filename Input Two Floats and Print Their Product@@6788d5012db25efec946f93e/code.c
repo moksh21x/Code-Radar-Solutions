@@ -6,6 +6,6 @@ int main(){
     float sum;
     prioduct=a*b;
 
-    printf("Sum: %f",prioduct);
+    printf("Product: %f",prioduct);
     return 0;
 }
