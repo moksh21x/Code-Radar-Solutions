@@ -6,6 +6,6 @@ int main(){
     float prioduct;
     prioduct=a*b;
 
-    printf("Product: %f",prioduct);
+    printf("Product: %.2f",prioduct);
     return 0;
 }
