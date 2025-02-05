@@ -12,7 +12,7 @@ int main() {
     area = M_PI * radius * radius;
 
     // Display the area
-    printf("The area of the circle with radius %.2lf is: %.2lf\n", radius, area);
+    printf("Area :%.2lf\n", radius, area);
 
     return 0;
 }
