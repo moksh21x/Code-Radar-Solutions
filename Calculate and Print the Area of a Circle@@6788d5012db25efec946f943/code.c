@@ -12,7 +12,7 @@ int main() {
     area = M_PI * radius * radius;
 
     // Display the area
-    printf("Area :%.2lf\n", radius, area);
+    printf("Area :%.2lf\n", area);
 
     return 0;
 }
