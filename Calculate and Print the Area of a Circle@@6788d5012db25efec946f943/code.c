@@ -6,7 +6,7 @@ int main() {
     scanf("%lf", &radius);
 
     // Calculate the area
-    area = M_PI * radius * radius;
+    area = 3.14 * radius * radius;
 
     // Display the area
     printf("Area :%.2lf\n", area);
