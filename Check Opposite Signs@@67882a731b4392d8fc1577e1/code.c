@@ -2,7 +2,7 @@
 
 int main(){
     char a,b;
-    scanf("%s",&a,&b);
+    scanf("%c",&a,&b);
     if ((a>0 && b<0)||(a<0 && b>0)){
         printf("True");
     }
