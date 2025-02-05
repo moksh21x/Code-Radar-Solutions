@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    double radius,area;
-    scanf("%lf", &radius);
+    float radius,area;
+    scanf("%f", &radius);
 
     // Calculate the area
     area = 3.14 * radius * radius;
 
     // Display the area
-    printf("Area :%.2lf\n", area);
+    printf("Area :%.lf\n", area);
 
     return 0;
 }
