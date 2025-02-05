@@ -2,10 +2,7 @@
 #include <math.h>
 
 int main() {
-    double radius, area;
-
-    // Prompt the user for the radius
-    printf("Enter the radius of the circle: ");
+    double radius,area;
     scanf("%lf", &radius);
 
     // Calculate the area
