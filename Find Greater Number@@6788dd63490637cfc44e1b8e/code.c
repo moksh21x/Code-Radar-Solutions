@@ -9,6 +9,8 @@ int main(){
     else if ((a-b)<0){
             printf("%d",b);
     }
-    
+    else {
+        printf("0")
+    }
     return 0;
 }
