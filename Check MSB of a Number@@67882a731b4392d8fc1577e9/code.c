@@ -2,7 +2,7 @@
 int main(){
     int bit;
     scanf("%d",&bit);
-    if (bit & (31<<1)){
+    if (bit & (1<<31)){
         printf("Set");
     }
     else{
