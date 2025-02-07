@@ -8,7 +8,7 @@ int main(){
 
     }
     else if(a%11==0){
-        printf("Divisible")
+        printf("Divisible");
     }
     else{
         printf("Not Divisible");
