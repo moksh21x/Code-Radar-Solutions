@@ -9,7 +9,7 @@ int main(){
     else if(90>marks>=80){
         printf('B');
     }
-    else if(80>makrs>=70){
+    else if(80>marks>=70){
         printf('C');
     }
     else if(marks<60){
