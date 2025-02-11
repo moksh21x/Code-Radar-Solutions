@@ -7,10 +7,10 @@ int main(){
 
     }
     else if(a<b){
-        printf("Second")
+        printf("Second");
     }
     else if(a==b){
-        printf("Equal")
+        printf("Equal");
     }
     return 0;
 }
