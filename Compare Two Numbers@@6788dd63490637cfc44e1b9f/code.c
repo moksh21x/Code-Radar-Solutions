@@ -9,7 +9,7 @@ int main(){
     else if(a<b){
         printf("Second");
     }
-    else if(a==b){
+    else if(a=b){
         printf("Equal");
     }
     return 0;
