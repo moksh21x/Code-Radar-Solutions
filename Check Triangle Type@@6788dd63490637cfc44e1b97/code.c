@@ -6,5 +6,5 @@ int main(){
     if(a=b && b=c){
         printf("Equilateral");
         }
-        return 0;
+    return 0;
 }
