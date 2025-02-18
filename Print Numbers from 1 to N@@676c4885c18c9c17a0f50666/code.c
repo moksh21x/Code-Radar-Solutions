@@ -5,6 +5,6 @@ int main(){
     for(i=0;i<N+1;i++){
         printf("%d",N);
     }
-    return o;
+    return 0;
    
 }
