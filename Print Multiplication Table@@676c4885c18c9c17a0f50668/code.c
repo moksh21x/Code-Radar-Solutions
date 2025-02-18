@@ -6,6 +6,6 @@ int main(){
         product=2*i;
        
     }
-   printf("&d x %d = %d",N,i,product); 
+   printf("%d x %d = %d",N,i,product); 
     return 0;
 }
